@@ -59,6 +59,12 @@ final class Language extends AbstractStyle
     const HI_IN = 'hi-IN';
     const HI_IN_ID = 1081;
 
+    const NL_NL = 'nl-NL';
+    const NL_NL_ID = 1043;
+
+    const NL_BE = 'nl-BE';
+    const NL_BE_ID = 2067;
+
     /**
      * Language ID, used for RTF document generation
      *
